@@ -1,5 +1,6 @@
 # BreadthFirstSearchOnMap
 implement the BFS method and related methods
+![first map](./images/1.jpg)
 
 To run this application, first of all you need to obtain and use your Google Maps API Javascript Developer Key.
 
